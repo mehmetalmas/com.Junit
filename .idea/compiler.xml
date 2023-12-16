@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JUnitInt" />
+        <module name="com.JUnitInt" />
+        <module name="com.JUnit" />
       </profile>
     </annotationProcessing>
   </component>
